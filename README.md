@@ -54,7 +54,9 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
 
-[![HomePage](https://github-readme-stats.vercel.app/api/pin/?username=HwlloChen&repo=home-page&theme=radical&hide_border=true)](https://github.com/HwlloChen/SendLike)
+
+[![etaMonitor](https://github-readme-stats.vercel.app/api/pin/?username=HwlloChen&repo=etaMonitor&theme=radical&hide_border=true)](https://github.com/HwlloChen/etaMonitor)
+[![HomePage](https://github-readme-stats.vercel.app/api/pin/?username=HwlloChen&repo=home-page&theme=radical&hide_border=true)](https://github.com/HwlloChen/home-page)
 [![GoodNewsGenerator](https://github-readme-stats.vercel.app/api/pin/?username=HwlloChen&repo=GoodNewsGenerator&theme=radical&hide_border=true)](https://github.com/HwlloChen/GoodNewsGenerator)
 
 </div>
