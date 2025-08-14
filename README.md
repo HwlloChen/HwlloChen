@@ -80,5 +80,5 @@ If you find my projects helpful, consider giving them a ⭐️ or following me f
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/HwlloChen">HwlloChen</a></i>
+  <i>♥️ From <a href="https://github.com/HwlloChen">HwlloChen</a></i>
 </div>
