@@ -15,7 +15,7 @@
 
 I'm a passionate developer who loves creating innovative solutions and contributing to open-source projects. 
 
-- 🔭 I'm currently working on **Langbot plugins and automation tools**
+- 🔭 I'm currently working on **ClassTop and etaMonitor**
 - 🌱 I'm continuously learning and exploring new technologies
 - 💬 Use **Vue.js, Go, Python, C++**
 - 📫 How to reach me: Check out my [website](https://etaris.moe)
